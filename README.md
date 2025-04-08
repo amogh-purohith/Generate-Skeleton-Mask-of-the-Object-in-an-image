@@ -1,0 +1,1 @@
+# Generate-Skeleton-Mask-of-the-Object-in-an-image
